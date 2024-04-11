@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
-## Inmagenes
+## Imagenes
 ![image](https://github.com/DAArellanoGamon/uII_act4_Drawer2/assets/143548308/44455bf0-110f-4992-aec6-05f42e2a7468)
 ![image](https://github.com/DAArellanoGamon/uII_act4_Drawer2/assets/143548308/252d4d27-ad06-4638-916f-61a64769b81b)
 ![image](https://github.com/DAArellanoGamon/uII_act4_Drawer2/assets/143548308/ba00fd61-3e33-4b8e-b048-9d616acb2bd3)
